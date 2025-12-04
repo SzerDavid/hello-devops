@@ -13,13 +13,6 @@ amely HTTP-n a `http://localhost:8080` címen érhető el és egy szöveget ad v
 
 Lokális futtatás (Docker nélkül):
 
-```bash
-python -m venv venv
-# Windows PowerShell:
-.\venv\Scripts\activate
-pip install -r requirements.txt
-python app.py
-```
 ### 2.2 Buildelés
 
 A projektet a következő lépések alapján lehet előkészíteni és futtatni:
